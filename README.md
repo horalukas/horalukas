@@ -1,5 +1,5 @@
 ### Hi there, I'm Lukáš 👋
-- 👀 I’m interested in backend/ full stack development
+- 👀 I’m interested in backend/ full stack development and app development
 - 🌱 I’m currently learning Django and React
 - 🥅 2021 Goals: Learn more frameworks
 - ⚡ Fun fact: I love to play football and watch movies
